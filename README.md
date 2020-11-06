@@ -1,5 +1,5 @@
 # Twitter-CognitiveService
-# Analizaremos s un tweet es positivo negativo o neutral 
+# Analizaremos si un tweet es positivo negativo o neutral 
 # Creamos el servicio de Azure
 *Agregamos Azure Portal *Analista de Texto *Plan de tarifa *Grupo de Recursos * Crear
 # Definimos credenciales del servicio
